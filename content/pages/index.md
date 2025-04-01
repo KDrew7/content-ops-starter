@@ -38,15 +38,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: aquadude.omnidroid.ai
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       url: /images/output (1).jpg
       altText: Unblock your team boost your time to production preview
