@@ -32,7 +32,7 @@ sections:
       - type: Button
         label: AQUADUDE
         altText: ''
-        url: aquadude.omnidroid.ai
+        url: 'https://aquadude.omnidroid.ai'
         showIcon: false
         icon: arrowRight
         iconPosition: right
