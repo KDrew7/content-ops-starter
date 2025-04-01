@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Here are cool games in the meantime:
+      Here are some cool games in the meantime:
     actions:
       - label: Get started
         altText: ''
