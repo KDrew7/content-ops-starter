@@ -11,7 +11,7 @@ sections:
     text: |
       Here are some cool games in the meantime:
     actions:
-      - label: Get started
+      - label: GLOBZ
         altText: ''
         url: globz.omnidroid.ai
         showIcon: false
