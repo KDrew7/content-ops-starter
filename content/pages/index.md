@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Z SWARM
         altText: ''
         url: zswarm.omnidroid.ai
         showIcon: false
