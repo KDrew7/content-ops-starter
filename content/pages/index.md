@@ -30,7 +30,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: AQUADUDE
         altText: ''
         url: aquadude.omnidroid.ai
         showIcon: false
