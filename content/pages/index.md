@@ -13,7 +13,7 @@ sections:
     actions:
       - label: GLOBZ
         altText: ''
-        url: globz.omnidroid.ai
+        url: 'https://globz.omnidroid.ai'
         showIcon: false
         icon: arrowRight
         iconPosition: right
