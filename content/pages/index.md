@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: Z SWARM
         altText: ''
-        url: zswarm.omnidroid.ai
+        url: 'https://zswarm.omnidroid.ai'
         showIcon: false
         icon: arrowRight
         iconPosition: right
